@@ -1,0 +1,14 @@
+# Windows system files - prevents "Desktop.ini" and thumbnail caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell/Scripting temporary files
+*.log
+*.tmp
+*__history.ps1
+
+# Folder-specific metadata
+.DS_Store
+.directory
